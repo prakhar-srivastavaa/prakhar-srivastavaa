@@ -13,8 +13,11 @@
 - [LinkedIn](https://www.linkedin.com/in/prakhar-srivastavaa/)
 - 😄 Pronouns: He/Him
 
-![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
-![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/Prakhar_srivstv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yashan0202" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/prakhar-srivastavaa/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thermodynamic" height="30" width="40" /></a>
+<a href="https://www.instagram.com/prakhar_srivastavaa/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thermo_dynamics_" height="30" width="40" /></a>
+</p>
 
 - Learner forever! 😄 
