@@ -2,14 +2,13 @@
 
 
 
-- 🔭 Working on Machine Learning and Deep Learning projects
-- 🌱 Learning Python, C++, C , Machine Learning , Computer Vision, NLP Data Structures, Data Science
+- 🔭 Working on Machine Learning and Deep Learning projects and DSA
+- 🌱 Learning Python, C++, Machine Learning, SQL, NLP 
 - 📫 How to reach to me: 
 - Problem solving at [Leetcode](https://leetcode.com/u/prakhar_srivastavaa/)
 - [Resume](https://drive.google.com/file/d/1OK4ACYAHSVmZN3ti-ea634QtACyuExxv/view?usp=sharing)
 - [Gmail](https://emailprakharsrivastava@gmail.com)
-- [LinkedIn](https://www.linkedin.com/in/ayush-sinha-042a69192/)
-- [Portfolio Website](https://sinhaayush0829.wixsite.com/thatsme)
+- [LinkedIn](https://www.linkedin.com/in/prakhar-srivastavaa/)
 - 😄 Pronouns: He/Him
 
 ![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
