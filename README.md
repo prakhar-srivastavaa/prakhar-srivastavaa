@@ -4,12 +4,10 @@
 
 - 🔭 Working on Machine Learning and Deep Learning projects and DSA
 - 🌱 Learning Python, C++, Machine Learning, SQL, NLP 
-<p align="left"> <a href="https://www.instagram.com/prakhar_srivastavaa/" target="blank"><img src="" alt="Prakhar Srivasatava" /></a> </p>
 
 - 📫 How to reach to me: 
 - Problem solving @ [Leetcode](https://leetcode.com/u/prakhar_srivastavaa/)
 - Uncover My Potential @ [Resume](https://drive.google.com/file/d/1OK4ACYAHSVmZN3ti-ea634QtACyuExxv/view?usp=sharing)
-- [Gmail](https://emailprakharsrivastava@gmail.com)
 - 😄 Pronouns: He/Him
 
 <h3 align="left">Connect with me:</h3>
