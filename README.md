@@ -5,7 +5,7 @@
 - 🔭 Working on Machine Learning and Deep Learning projects
 - 🌱 Learning Python, C++, C , Machine Learning , Computer Vision, NLP Data Structures, Data Science
 - 📫 How to reach to me: 
-- Problem solving at [Leetcode](https://leetcode.com/sinhayush29/)
+- Problem solving at [Leetcode](https://leetcode.com/u/prakhar_srivastavaa/)
 - [Resume](https://drive.google.com/file/d/1OK4ACYAHSVmZN3ti-ea634QtACyuExxv/view?usp=sharing)
 - [Gmail](https://sinhaayush0829@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/ayush-sinha-042a69192/)
