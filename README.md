@@ -7,8 +7,8 @@
 <p align="left"> <a href="https://www.instagram.com/prakhar_srivastavaa/" target="blank"><img src="" alt="Prakhar Srivasatava" /></a> </p>
 
 - 📫 How to reach to me: 
-- Problem solving at [Leetcode](https://leetcode.com/u/prakhar_srivastavaa/)
-- [Resume](https://drive.google.com/file/d/1OK4ACYAHSVmZN3ti-ea634QtACyuExxv/view?usp=sharing)
+- Problem solving @ [Leetcode](https://leetcode.com/u/prakhar_srivastavaa/)
+- Uncover My Potential @ [Resume](https://drive.google.com/file/d/1OK4ACYAHSVmZN3ti-ea634QtACyuExxv/view?usp=sharing)
 - [Gmail](https://emailprakharsrivastava@gmail.com)
 - 😄 Pronouns: He/Him
 
