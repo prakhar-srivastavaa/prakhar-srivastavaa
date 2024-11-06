@@ -1,5 +1,5 @@
 
-<h1 align="center">Hello Geeks 👋, I'm Prakhar Srivastava</h1>
+<h2 align="center">Hello Geeks 👋, I'm Prakhar Srivastava</h2>
 <h3 align="center">A enthusiastic developer from India</h3>
 
 - 🔭 Working on Machine Learning and Deep Learning projects and DSA
