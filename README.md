@@ -4,6 +4,8 @@
 
 - 🔭 Working on Machine Learning and Deep Learning projects and DSA
 - 🌱 Learning Python, C++, Machine Learning, SQL, NLP 
+<p align="left"> <a href="https://www.instagram.com/prakhar_srivastavaa/" target="blank"><img src="https://img.shields.io/twitter/follow/yashan0202?logo=twitter&style=for-the-badge" alt="Prakhar Srivasatava" /></a> </p>
+
 - 📫 How to reach to me: 
 - Problem solving at [Leetcode](https://leetcode.com/u/prakhar_srivastavaa/)
 - [Resume](https://drive.google.com/file/d/1OK4ACYAHSVmZN3ti-ea634QtACyuExxv/view?usp=sharing)
