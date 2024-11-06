@@ -6,8 +6,8 @@
 - 🌱 Learning Python, C++, Machine Learning, SQL, NLP 
 
 - 📫 How to reach to me: 
-- Problem solving @ ([Leetcode](https://leetcode.com/u/prakhar_srivastavaa/))
-- Uncover My Potential @ [Resume](https://drive.google.com/file/d/1OK4ACYAHSVmZN3ti-ea634QtACyuExxv/view?usp=sharing)
+- Problem solving at -[Leetcode](https://leetcode.com/u/prakhar_srivastavaa/)
+- Uncover My Potential -[Resume](https://drive.google.com/file/d/1OK4ACYAHSVmZN3ti-ea634QtACyuExxv/view?usp=sharing)
 - 😄 Pronouns: He/Him
 
 <h3 align="left">Connect with me:</h3>
