@@ -1,8 +1,6 @@
 
-
+<h1 align="center">Hello Geeks 👋, I'm Prakhar Srivastava</h1>
 <h3 align="center">A enthusiastic developer from India</h3>
-
-### Hi Geeks 👋
 
 - 🔭 Working on Machine Learning and Deep Learning projects and DSA
 - 🌱 Learning Python, C++, Machine Learning, SQL, NLP 
