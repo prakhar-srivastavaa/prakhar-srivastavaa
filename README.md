@@ -1,6 +1,8 @@
-### Hi there 👋
+
 
 <h3 align="center">A enthusiastic developer from India</h3>
+
+### Hi there 👋
 
 - 🔭 Working on Machine Learning and Deep Learning projects and DSA
 - 🌱 Learning Python, C++, Machine Learning, SQL, NLP 
