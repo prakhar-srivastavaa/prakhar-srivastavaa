@@ -1,6 +1,6 @@
 
 <h2 align="center">Hello Geeks 👋, I'm Prakhar Srivastava</h2>
-<h3 align="center">A enthusiastic developer from India</h3> <a href="https://twitter.com/Prakhar_srivstv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Prakhar Srivastava" height="30" width="40" /></a>
+<h3 align="center">A enthusiastic developer from India</h3>  href="https://twitter.com/Prakhar_srivstv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Prakhar Srivastava" height="30" width="40" 
 
 - 🔭 Working on Machine Learning and Deep Learning projects and DSA
 - 🌱 Learning Python, C++, Machine Learning, SQL, NLP 
