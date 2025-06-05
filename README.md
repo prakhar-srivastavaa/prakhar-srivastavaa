@@ -4,6 +4,7 @@
 
 - 🔭 Working on Machine Learning and Deep Learning projects using NLP and DSA
 - 🌱 Skills: Python, Java, C++, Machine Learning, SQL 
+- ^_^ tech stack : Spring framework, springboot, Postman, H2 database 
 
 - 📫 How to reach to me: 
 - Problem solving at -[Leetcode](https://leetcode.com/u/prakhar_srivastavaa/)
