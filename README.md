@@ -9,7 +9,7 @@
  
 - 📫 How to reach to me: 
 - Problem solving at -[Leetcode](https://leetcode.com/u/prakhar_srivastavaa/)
-- Uncover My Potential [Resume] -[Resume](https://drive.google.com/file/d/1egUGwRPE6XtbLNA-v4fl1E4hrx9l0Nyp/view?usp=drive_link)
+- Uncover My Potential -[Resume](https://drive.google.com/file/d/1egUGwRPE6XtbLNA-v4fl1E4hrx9l0Nyp/view?usp=drive_link)
 - 😄 Pronouns: He/Him
 
 <h3 align="left">Connect with me:</h3>
