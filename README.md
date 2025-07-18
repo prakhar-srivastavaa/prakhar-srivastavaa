@@ -3,11 +3,12 @@
 <h3 align="center">A enthusiastic developer from India <a href="https://twitter.com/Prakhar_srivstv" target="blank"><img align="center" src="https://media.tenor.com/d39zhmpSHT4AAAAj/umm.gif" alt="Indian Flag" height="20" width="30" /></a></h3> 
 
 - 🔭 Working on Machine Learning and Deep Learning projects using NLP and DSA
-- 🌱 Programming Languages - Java, C++, Python, SQL
-- ^_^ Frameworks - Spring Boot, Hibernate, Spring framework
-- ~_~ Tools - Git, Maven, Postman, VS Code, IntelliJ
+- 🌱 Programming Languages - Java, Python, SQL, JavaScript, HTML, Css
+- ^_^ Frameworks - Spring Boot, Hibernate, Spring framework, React
+- ~_~ Tools - Git, Maven, Postman, VS Code, IntelliJ,
+-  Operating System - Linux, Windows
  
-- 📫 How to reach to me: 
+- 📫 How to reach me: 
 - Problem solving at -[Leetcode](https://leetcode.com/u/prakhar_srivastavaa/)
 - Uncover My Potential -[Resume](https://drive.google.com/file/d/1egUGwRPE6XtbLNA-v4fl1E4hrx9l0Nyp/view?usp=drive_link)
 - 😄 Pronouns: He/Him
