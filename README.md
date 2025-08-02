@@ -3,9 +3,9 @@
 <h3 align="center">A enthusiastic developer from India <a href="https://twitter.com/Prakhar_srivstv" target="blank"><img align="center" src="https://media.tenor.com/d39zhmpSHT4AAAAj/umm.gif" alt="Indian Flag" height="20" width="30" /></a></h3> 
 
 -- Working on Web Development and Improving Backend using Machine Learning and Deep Learning--
-- 🌱 Programming Languages - Java, Python, SQL, JavaScript, HTML, CSS
-- ^_^ Frameworks - Spring Boot, Hibernate, Spring framework, React
-- ~_~ Tools - Git, Maven, Postman, VS Code, IntelliJ,
+- 🌱 Programming Languages - Java, Python, SQL, JavaScript, HTML, CSS, JSX
+- ^_^ Frameworks - Spring Boot, Hibernate, Spring framework, React, Vite
+- ~_~ Tools - Git, Maven, Postman, VS Code, IntelliJ
 - 🔭 Operating System - Linux, Windows
  
 - 📫 How to reach me: 
