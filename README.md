@@ -3,10 +3,10 @@
 <h3 align="center">A enthusiastic developer from India <a href="https://twitter.com/Prakhar_srivstv" target="blank"><img align="center" src="https://media.tenor.com/d39zhmpSHT4AAAAj/umm.gif" alt="Indian Flag" height="20" width="30" /></a></h3> 
 
 -- Working on Web Development and Improving Backend using Machine Learning and Deep Learning--
-- 🌱 Programming Languages - TypeScript, Python, SQL, JavaScript, HTML5, Tailwind CSS, JSX
+- 🌱 Programming Languages - TypeScript, Python, SQL, JavaScript, HTML5, Tailwind CSS
 - ^_^ Frameworks - React, Vite, NextJs
-- ~_~ Tools - Git, Maven, Postman, VS Code, IntelliJ
-- 🔭 Operating System - Linux, Windows
+- ~_~ Tools - Git, Postman, VS Code, IntelliJ
+- 🔭 Operating System - Linux, Windows, Mac
  
 - 📫 How to reach me: 
 - Problem solving at -[Leetcode](https://leetcode.com/u/prakhar_srivastavaa/)
