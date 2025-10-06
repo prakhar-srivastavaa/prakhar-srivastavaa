@@ -4,7 +4,7 @@
 
 --- Working on Web Development and Improving Backend using Machine Learning and Deep Learning ---
 - 🌱 Programming Languages - TypeScript, Python, SQL, JavaScript, HTML5, Tailwind CSS
-- ^_^ Frameworks - React, Vite, NextJs
+- ^_^ Frameworks - React, Vite, NextJS
 - ~_~ Tools - Git, Postman, VS Code, IntelliJ
 - 🔭 Operating System - Linux, Windows, Mac
  
