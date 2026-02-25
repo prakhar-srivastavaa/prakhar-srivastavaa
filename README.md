@@ -4,8 +4,8 @@
 
 --- Working on Web Development and Improving Backend using Machine Learning and Deep Learning ---
 - 🌱 Programming Languages - Python, TypeScript, SQL, JavaScript, HTML5, Tailwind CSS
-- ^_^ Frameworks - Flask, React, Vite, NextJS, FastAPI
-- ~_~ Tools - Git, Postman, VS Code, IntelliJ
+- ^_^ Frameworks - Flask, React, Vite, NextJS, FastAPI, LangChain, RAG
+- ~_~ Tools - Git, Postman, VS Code
 - 🔭 Operating System - Linux, Windows, Mac
  
 - 📫 How to reach me: 
